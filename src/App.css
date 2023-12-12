@@ -1,0 +1,15 @@
+* {
+    font-family: sans-serif;
+}
+
+form {
+    max-width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+form > * {
+    width: 50%;
+    margin: 0 auto;
+}
